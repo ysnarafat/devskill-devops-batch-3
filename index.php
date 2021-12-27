@@ -6,8 +6,7 @@ ini_set('display_errors', 0);
 
 require 'includes/config.php';
 require 'includes/functions.php';
-//This Change is made by Zafar
-//Assignment 01 by Zafar
-//Changed by Tanvir_Assignment_01
+
+//This change is made by Yeasin Arafat (ysnsarafat) as a part of Dev Skill DevOps batch 3 Assignment 1
 
 init();
